@@ -1,0 +1,9 @@
+.Header{
+    color: burlywood;
+    height: 450px;
+   background-image: url('../2-7\ Inline\,\ internal\ and\ external\ css/Brazil player/0_Silva.jpg');    
+   background-size: cover;
+   background-color: brown;
+   background-repeat: no-repeat;
+   background-blend-mode: soft-light;
+}

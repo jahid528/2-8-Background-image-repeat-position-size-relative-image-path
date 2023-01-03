@@ -1,0 +1,18 @@
+.Blog{
+    color: red;
+    background-color: aqua;
+    padding: 10px;
+    border: 20px solid rgba(80, 224, 13, 0.822);
+    margin: 5px solid black;
+  
+}
+#Brazil{
+    color: sienna ;
+}
+ol{
+    color: sienna;
+}
+img{
+    width: 100px;
+    height: auto;
+}
